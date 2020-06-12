@@ -1,18 +1,19 @@
+#name{
+    font-size: x-large;    
+}
+
 #sw{    
     font-weight: lighter;
+    font-size: large;
 }
 
 #image{    
     width: 100;
     height: 140;
-}
-
-section{
-    width: 10%;
     padding-right: 15px;
     margin-right: 15px;
     float: left;
-}
+} 
 
 #summary, #personalinfo, #education, #experience,
 #skills, #softskills, #languages {
@@ -30,8 +31,8 @@ body{
     text-align: justify;
 }
 
-div{
-    font-size: 18;
+section{
+    font-size: 16;
 }
 
 aside{
